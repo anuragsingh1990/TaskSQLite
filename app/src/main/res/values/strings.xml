@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskSQLite</string>
+    <string name="signup">Not a Member yet ? <font color='#9c27b3'>SignUp</font></string>
+    <string name="login">Already a Member ! <font color='#9c27b3'>Login</font></string>
+</resources>
